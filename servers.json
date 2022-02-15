@@ -1,0 +1,4 @@
+{    
+    "0":{"name":"server1","ip": "example1.com","color":"0xFFFFFF"},
+    "1":{"name":"server2","ip": "example2.com","color":"0x000000"}
+}

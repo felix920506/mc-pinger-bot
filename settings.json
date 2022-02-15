@@ -1,0 +1,6 @@
+{
+    "token":"token here",
+    "title":"title of embed",
+    "errormsg":"message when failed to connect",
+    "prefix":"command prefix here"
+}
