@@ -1,5 +1,4 @@
 # import modules
-from sys import prefix
 import discord, datetime, discord.ext, json
 from discord.ext import commands
 from mcstatus import MinecraftServer
