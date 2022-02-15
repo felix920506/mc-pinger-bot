@@ -14,6 +14,7 @@ Discord bot that returns ping values of servers specified in config
   - discord.py: `pip install discord.py`
   - mcstatus: `pip install mcstatus`
   - python3 environment
+  - a copy of the source code
 
 ### running
   `python3 main.py`
